@@ -1,5 +1,10 @@
 "JOSEPH": Jogo feito por Everton Rodrigo e Weslley de Lima - W3 Studios
 
+⬇ ⬇ ⬇ Upgrade para Unity 6.5 (6000.5.3f1) ⬇ ⬇ ⬇ 
+11.07.2026 (11 de Julho de 2026)
+
+⬇ ⬇ ⬇ Versão Unity 2022.3.17f1 ⬇ ⬇ ⬇ 
+
 Commit 13: Everton Rodrigo (Finalização - SAVE)
 * Criei a ZoneWinGame para mostrar a vitória do jogador.
 * Adicionei música nova no jogo e no Menu Principal.
